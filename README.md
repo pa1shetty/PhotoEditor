@@ -8,7 +8,8 @@ Features
 * Save Photo
     
 ## 📸 Video
-https://user-images.githubusercontent.com/24766565/162406292-45a8282f-4f8b-4f51-aaad-0e2a4e1ee2c7.mp4
+
+https://user-images.githubusercontent.com/24766565/169658271-1d9aed81-728b-4de6-adb1-a2bd6a6aa2c0.mp4
 
 
 
