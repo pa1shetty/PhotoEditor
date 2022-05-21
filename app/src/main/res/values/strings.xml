@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="crop">Crop</string>
+    <string name="image">Image</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="info">info</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="resolution">Resolution</string>
+    <string name="size">Size</string>
+    <string name="created_on">Created On</string>
+    <string name="name_data">"Name: %1$s"</string>
+    <string name="type_data">"Type: %1$s"</string>
+    <string name="resolution_data">"Resolution: %1$s"</string>
+    <string name="size_data">"Size: %1$s"</string>
+    <string name="created_on_data">"Created On: %1$s"</string>
+    <string name="x_axis">X Axis</string>
+    <string name="y_axis">Y Axis</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="cannot_be_empty">Cannot be empty</string>
+    <string name="cannot_be_empty_or_zero">Cannot be empty or zero</string>
+    <string name="image_saved">"Image Saved in %1$s</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SVN/Training/Training Level Projects/PhotoEditor/PhotoEditor/app/src/main/res/layout/activity_main.xml" value="0.12604166666666666" />
+        <entry key="..\:/SVN/Training/Training Level Projects/PhotoEditor/PhotoEditor/app/src/main/res/layout/bsd_crop.xml" value="0.1" />
+        <entry key="..\:/SVN/Training/Training Level Projects/PhotoEditor/PhotoEditor/app/src/main/res/layout/bsd_details.xml" value="0.12552083333333333" />
+        <entry key="..\:/SVN/Training/Training Level Projects/PhotoEditor/PhotoEditor/app/src/main/res/layout/fragment_edit_screen.xml" value="0.1" />
+        <entry key="..\:/SVN/Training/Training Level Projects/PhotoEditor/PhotoEditor/app/src/main/res/layout/fragment_home_screen.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
