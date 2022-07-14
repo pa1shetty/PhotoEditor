@@ -1,5 +1,4 @@
 # PhotoEditor
-Assignment by Neoastra
 
 Features
 * Crop Photo
